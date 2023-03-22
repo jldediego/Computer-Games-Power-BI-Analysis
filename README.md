@@ -7,25 +7,40 @@ Se inicia con un Dataset en archivo excel desordenado en ventas por región
 Conceptos aprendidos:
 
 -Eliminación de columnas
+
 -Despivotización de columnas
+
 -Actualización de encabezados
+
 -Modificación de tipología de columnas
 
+
 Se generan 6 gráficas:
+
 -Una Tarjeta con el total de copias vendidas
+
 -Un Grafico de barras con el porcentaje vendido por región
+
 -Un Grafico de columnas con las ventas acumulados por año y región
+
 -Un Grafico de barras con las ventas acumulados por año y región
+
 -Un Grafico de barras con las ventas acumulados por plataforma y región
+
 -Un Grafico de columnas con las ventas acumulados por género y por región
+
 -Una Tabla con el detalle, nombre de los videojuegos, ventas, plataforma, género y editorial
 
 Se agregan Filtros:
 
 -Año
+
 -Región
+
 -Plataforma
+
 -Género
+
 -Compañia
 
 Finalmente se procede a realizar el Dashboard
