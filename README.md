@@ -1,14 +1,37 @@
-### Hi there 👋
-Soy Ingeniero de Caminos, Canales y Puertos, con un profundo conocimiento en diferentes áreas de la ingeniería, como obras civiles, gestión de control de proyectos, estructuras o tuberías, siempre desarrollando posiciones que requieren conocimientos en administración de empresas, visión estratégica del negocio y también fuertes habilidades de liderazgo en la gestión de recursos humanos y negociación. He desarrollado puestos en proyectos  donde el alto nivel de diálogo es esencial, trabajado en industrias como en el diseño de plantas de aguas residuales y refinerías Downstream recuperaciones ambientales, plantas energéticas, gestión de servicios, etc. 
-Estoy acostumbrado a trabajar en entornos internacionales difíciles y bajo presión. Especialidades: Obras civiles, estructuras metálicas, tuberías, apoyo a la dirección de obra, propuestas, administración de contratos, control de costes, infraestructuras, ingeniería de transporte, aguas residuales. Experiencia mundial incluida: Escocia, Marruecos, KSA, República Dominicana, Dinamarca, Francia, Bélgica e Isla Reunión (Francia)
-Bien, todo esto en un amplio CV de 15 años, sobre el que hace ya casi un año comencé a pensar en dar un giro de 180º por diversos motivos que ahora no vienen al caso, pero que no tendría problema en explicar.
-Es por eso que por mi cuenta comencé a trastear con la programación y el análisis de datos, que en algunos casos mejoraban las presentaciones que realizaba en el trabajo.
-Un año más tarde me encuentro completamente embebido en este ámbito al que espero poder dedicarme en un futuro no demasiado lejano.
+Análisis historico de ventas de unidades de videojuegos por categoría, compañia, genero y región global.
+Se trata de un proyecto ofrecido por Datdara en Udemy - https://www.udemy.com/course/power-bi-analisis-datos-business-intelligence/
 
-- 🔭 I’m currently working as a Contract Manager
-- 🌱 I’m currently learning several disciplines related with Data Science through a Msc Data Science & Business Analytics in Escuela de Organización Industrial (EOI)
-- 👯 I’m looking to collaborate in projects
-- 🤔 I’m looking for help with to anybody with needs help if i have enough time...
-- 💬 Ask me about whatever, we will solve it!
-- 📫 How to reach me: www.linkedin.com/in/jldediego
+
+Se inicia con un Dataset en archivo excel desordenado en ventas por región
+
+Conceptos aprendidos:
+
+-Eliminación de columnas
+-Despivotización de columnas
+-Actualización de encabezados
+-Modificación de tipología de columnas
+
+Se generan 6 gráficas:
+-Una Tarjeta con el total de copias vendidas
+-Un Grafico de barras con el porcentaje vendido por región
+-Un Grafico de columnas con las ventas acumulados por año y región
+-Un Grafico de barras con las ventas acumulados por año y región
+-Un Grafico de barras con las ventas acumulados por plataforma y región
+-Un Grafico de columnas con las ventas acumulados por género y por región
+-Una Tabla con el detalle, nombre de los videojuegos, ventas, plataforma, género y editorial
+
+Se agregan Filtros:
+
+-Año
+-Región
+-Plataforma
+-Género
+-Compañia
+
+Finalmente se procede a realizar el Dashboard
+
+![Ventas-Videojuego](https://user-images.githubusercontent.com/121707237/226839201-2b877020-cea3-4f76-9f0d-60d6eb794e3f.jpg)
+
+Puede visualizar el informe completo en:
+https://app.powerbi.com/groups/me/reports/04cf7d1c-db91-4523-9b7e-4857ee57ad9e/ReportSection
 
